@@ -7,7 +7,7 @@
 
 > A web-based lightning detection and early warning system designed to protect hunters, hikers, and outdoor enthusiasts in Colorado's high-elevation wilderness areas. Developed in response to tragic lightning fatalities in Conejos County in 2024.
 
-[Lightning Sentinel Dashboard](https://via.placeholder.com/800x400/2C3E50/FFFFFF?text=Lightning+Sentinel+Dashboard)
+[Lightning Sentinel Dashboard](https://jkh2.github.io/Lightning-Sentinel/)
 
 ## 🎯 Purpose
 
